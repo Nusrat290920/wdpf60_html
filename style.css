@@ -1,0 +1,26 @@
+.box1{
+    float: right;
+    background-color:#2c0cf9;
+    height:200px;
+    width:200px;
+}
+.box2{
+    float: right;
+    background-color: rgb(12, 177, 177);
+    height: 200px;
+    width:200px;
+}
+.box3{
+    float: right;
+    background-color: hsl(225, 60%, 57%);
+    Height: 200px;
+    width:200px;
+
+}
+.box4{
+    background-color:rgba(159, 162, 160, 0.5);
+    height:200px;
+    width: 200;
+
+
+}
